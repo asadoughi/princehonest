@@ -1,0 +1,19 @@
+body {
+    background-color: #eeeeee;
+    font-family: Monaco, Courier New;
+}
+
+.name {
+    float: right;
+    margin-right: 100px;
+}
+
+.contact-links {
+    float: left;
+}
+
+.footer {
+    clear: both;
+    font-size: 10px;
+    text-align: center;
+}
