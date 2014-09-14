@@ -18,6 +18,11 @@ li {
     list-style-type: none;
 }
 
+.timeline {
+    clear: both;
+    font-size: 12px;
+}
+
 .footer {
     clear: both;
     font-size: 10px;
